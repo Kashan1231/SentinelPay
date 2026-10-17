@@ -1,0 +1,3 @@
+"""
+SentinelPay – Admin domain module.
+"""
